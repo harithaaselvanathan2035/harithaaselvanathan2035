@@ -1,6 +1,6 @@
 # github-generator
 # 💫 About Me:
- 👋 Hi, I’m Harithaa<br>👀 I’m interested in Full Stack Development<br>🌱 I’m currently learning Node js<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me harithaa2035personal@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I like to crack jokes.
+ 👋 Hi, I’m Harithaa<br>👀 I’m interested in Java <br>🌱 I’m currently learning advance level of Java<br>💞️ I’m looking to work in IT sectors as Developer<br>📫 How to reach me harithaa2035personal@gmail.com<br>😄 Pronouns: she/her<br>⚡ Fun fact: I like to crack jokes and like to explore things.
 
 
 ## 🌐 Socials:
